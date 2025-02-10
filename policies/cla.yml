@@ -1,4 +1,4 @@
-name: Contributor License Agreement Policy 
+name: Contributor License Agreement Policy
 description: CLA policy file
 
 resource: repository
@@ -123,6 +123,7 @@ configuration:
          - WorkingRobot
          - wslbot
          - zangobot
+         - microsoft-graph-devx-bot[bot]
 
       prohibitedCompanies:
          - msft
