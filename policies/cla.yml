@@ -28,6 +28,8 @@ configuration:
          - ALGitHubBot
          - ansibleazurebot
          - anton-bot
+         - aspire-repo-bot
+         - aspire-repo-bot[bot]
          - ascforiotbot
          - audevbot
          - azclibot
