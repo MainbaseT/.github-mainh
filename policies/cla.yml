@@ -107,6 +107,7 @@ configuration:
          - playwrightmachine
          - podman-desktop-bot
          - polymcbot
+         - power-pages-github-app[bot]
          - prmerger-test[bot]
          - pulumi-bot
          - PylanceBot
